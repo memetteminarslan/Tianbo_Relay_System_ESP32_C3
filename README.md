@@ -1,4 +1,4 @@
-# Tianbo_Relay_System_ESP32_C3
+# Tianbo_Relay_System_LORA_ESP32_C3
 Ana Özellikler:
 
 Uzun Menzilli Kablosuz İletişim: ESP32-C3 mikrodenetleyici, düşük güç tüketimi ve uzun menzil avantajlarına sahip olan LoRa (Long Range) iletişim protokolünü benimser. Bu sayede, kontrol kutusu ve kontrol edilecek cihazlar arasında stabil ve güvenilir bir iletişim kurulur.
