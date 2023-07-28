@@ -10,4 +10,4 @@ Düşük Güç Tüketimi: Proje, pil ile çalışabilme yeteneğine odaklanarak 
 Kolay Kurulum ve Kullanım: Uzaktan kontrol kutusu, kullanıcı dostu arayüzü sayesinde kolay kurulum ve kullanım sağlar. Mobil uygulamalar veya web tabanlı arayüzler aracılığıyla cihazların durumunu takip etmek ve kontrol etmek oldukça basittir.
 
 Güvenlik Odaklı Tasarım: Proje, iletişimde kullanılan LoRa protokolünü şifreleme ve güvenlik önlemleriyle destekleyerek güvenli bir uzaktan kontrol imkanı sunar. Kimlik doğrulama ve veri bütünlüğü gibi güvenlik önlemleri, yetkisiz erişimleri engeller.
-![Ekran Alıntısı](https://github.com/memetteminarslan/Tianbo_Relay_System_ESP32_C3/assets/74721347/57baa417-3044-4a96-b571-fbf250069fe3)
+![lora](https://github.com/memetteminarslan/Tianbo_Relay_System_ESP32_C3/assets/74721347/caf1de60-d8f1-454d-a533-35240b1b36d3)
