@@ -5,7 +5,7 @@ Uzun Menzilli Kablosuz İletişim: ESP32-C3 mikrodenetleyici, düşük güç tü
 
 Esnek ve Güçlü Mikrodenetleyici: ESP32-C3, entegre Wi-Fi ve Bluetooth özellikleriyle donatılmış, güçlü ve esnek bir mikrodenetleyicidir. Bu sayede, kutuda birden fazla cihazı kontrol etmek ve yönetmek için yeterli işlem gücü ve kaynak sağlar.
 
-Düşük Güç Tüketimi: Proje, pil ile çalışabilme yeteneğine odaklanarak düşük güç tüketimli bir tasarım sunar. LoRa teknolojisi, enerji verimliliği sayesinde uzun pil ömrü sağlar.
+Düşük Güç Tüketimi: Proje, pil ile çalışabilme yeteneğine odaklanarak düşük güç tüketimli bir tasarım sunar. LoRa teknolojisi,  enerji verimliliği sayesinde uzun pil ömrü sağlar.
 
 Kolay Kurulum ve Kullanım: Uzaktan kontrol kutusu, kullanıcı dostu arayüzü sayesinde kolay kurulum ve kullanım sağlar. Mobil uygulamalar veya web tabanlı arayüzler aracılığıyla cihazların durumunu takip etmek ve kontrol etmek oldukça basittir.
 
