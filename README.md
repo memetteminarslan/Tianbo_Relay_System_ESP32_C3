@@ -11,3 +11,4 @@ Kolay Kurulum ve Kullanım: Uzaktan kontrol kutusu, kullanıcı dostu arayüzü 
 
 Güvenlik Odaklı Tasarım: Proje, iletişimde kullanılan LoRa protokolünü şifreleme ve güvenlik önlemleriyle destekleyerek güvenli bir uzaktan kontrol imkanı sunar. Kimlik doğrulama ve veri bütünlüğü gibi güvenlik önlemleri, yetkisiz erişimleri engeller.
 ![lora](https://github.com/memetteminarslan/Tianbo_Relay_System_ESP32_C3/assets/74721347/caf1de60-d8f1-454d-a533-35240b1b36d3)
+![RT203](https://github.com/memetteminarslan/ESP32_C3_4_Relay/assets/74721347/9a97982e-af53-4c44-a91a-62116757d862)
